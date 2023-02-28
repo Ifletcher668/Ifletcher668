@@ -8,7 +8,9 @@
 <hr />
 <div id="bio" align="left">
     <p>I'm a software developer, writer, and musician living in Idaho, working anywhere I have wifi.</p>
-    <p>The pandemic didn't spark my interest in programming. I quit working in construction <em>two months</em> before the first lockdown. But code school in quarantine jumpstarted my progress and helped me seamlessly find work post-graduation. I began professionally programming in the summer of 2020 a in January 2021, I started working for <a href="https://www.foundryinteractive.com/">Foundry Interactive</a>.</p>
+    <p>The pandemic didn't spark my interest in programming. I quit working in construction <em>two months</em> before the first lockdown. But going to code school in quarantine gave me near-endless time to study and helped me seamlessly find work post-graduation.</p>
+
+<p>I began professionally programming in the summer of 2020, and in January 2021, I started working for <a href="https://www.foundryinteractive.com/">Foundry Interactive</a>. I have been developing websites and web apps ever since.</p> 
 </div>
 
 <div id="skillz">
