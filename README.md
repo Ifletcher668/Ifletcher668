@@ -11,6 +11,8 @@
     <p>The pandemic didn't spark my interest in programming. I quit working in construction <em>two months</em> before the first lockdown. But going to code school in quarantine gave me near-endless time to study and helped me seamlessly find work post-graduation.</p>
 
 <p>I began professionally programming in the summer of 2020, and in January 2021, I started working for <a href="https://www.foundryinteractive.com/">Foundry Interactive</a>. I have been developing websites and web apps ever since.</p> 
+
+<p>In March of 2023, I started working for Hinge Health as a full-stack software engineer.</p>
 </div>
 
 <div id="skillz">
