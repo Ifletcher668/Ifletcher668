@@ -13,6 +13,10 @@
 <p>I began professionally programming in the summer of 2020, and in January 2021, I started working for <a href="https://www.foundryinteractive.com/">Foundry Interactive</a>. I have been developing websites and web apps ever since.</p> 
 
 <p>In March of 2023, I started working for Hinge Health as a full-stack software engineer.</p>
+
+<p>As an experienced front-end developer proficient in HTML, CSS, React, Gatsby, and Next.js, I have successfully led the deprecation of several legacy application components. I serve as primary liason between design/project management and engineering. Notably, I implemented a design token system that streamlined refactoring and rebranding processes, delivering over $100,000 in savings for the company.</p>
+
+<p>I have a strong background in creating reusable and accessible React components, as well as developing API endpoints using Ruby on Rails. My expertise extends to writing comprehensive end-to-end and unit tests utilizing Cypress, Jest, and Rspec frameworks, ensuring high-quality and robust application performance. I thrive in Agile development environments, contributing effectively to team efforts within fast-paced CI/CD settings.</p>
 </div>
 
 <div id="skillz">
